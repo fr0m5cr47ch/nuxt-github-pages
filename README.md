@@ -1,8 +1,11 @@
-# nuxt-github-pages
+# Nuxt + Github Pages
 
-> My tremendous Nuxt.js project
+published at [https://fr0m5cr47ch.github.io/nuxt-github-pages/](https://fr0m5cr47ch.github.io/nuxt-github-pages/) thanks to github pages repository :
+* settings > github pages > source = master /docs folder
+* next.config.js is set to generate static file to /docs folder
+* to deploy a new version first run yarn generate then push
 
-## Build Setup
+## Get Started
 
 ``` bash
 # install dependencies
@@ -18,5 +21,3 @@ $ yarn start
 # generate static project
 $ yarn run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
